@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rY9aDTnkEOb8VU5N3vnqlKtCXe9swf2zGAiKbndlSxFISNDJ9oxxzMFgUHoHGSuqbZaoGq1Xg08pa9U5ACe2MQ==",
+  "success": true,
+  "projectFilePath": "D:\\Universidade\\Programação\\Visual Sudio\\.NET\\DIO.Bank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
